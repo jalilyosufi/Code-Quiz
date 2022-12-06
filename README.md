@@ -38,13 +38,13 @@ N/A
 
 ## Usage
 
-To use this Module 6 Password Generator, you can go to the link of the website and you can see the result.
-![Alt text](./assets/05-javascript-challenge-demo.png)
+To use this Module 6 Code Quiz Game, you can go to the following link or github website.
+https://jalilyosufi.github.io/Code-Quiz/
 
 
 ## Credits
 
-N/A
+Jalil Yosufi
 
 ## License
 
